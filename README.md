@@ -1,2 +1,3 @@
 # SchoolManagementProject
 SchoolManagementProject
+프로젝트 
