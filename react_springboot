@@ -1,0 +1,15 @@
+*Build School Management App with SPRING BOOT + REACTJS + MONGODB | PART 2 ( ReactJS part )
+
+https://youtu.be/OnLVQwa_ml8
+
+환경변수에 
+C:\Program Files\nodejs\node_modules\npm\bin 추가
+
+*https://create-react-app.dev/docs/getting-started
+
+
+
+npx create-react-app school-management-app --template typescript
+
+
+
